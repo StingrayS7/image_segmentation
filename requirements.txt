@@ -1,5 +1,5 @@
 albumentations
-keras
-tensorflow
+keras == 3.5.0
+tensorflow == 2.17.1
 pandas
 matplotlib
